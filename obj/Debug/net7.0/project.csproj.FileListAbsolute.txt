@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\bin\Debug\net7.0\project.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\bin\Debug\net7.0\project.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\bin\Debug\net7.0\project.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\bin\Debug\net7.0\project.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\bin\Debug\net7.0\project.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\project.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\project.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\project.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\project.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\refint\project.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\project.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\project.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\project\obj\Debug\net7.0\ref\project.dll
